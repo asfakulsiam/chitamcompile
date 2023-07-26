@@ -4,10 +4,7 @@
 }
 
 h4{
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    align-item: center;
     color: black;
     font-width: bold;
 }
