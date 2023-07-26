@@ -4,7 +4,8 @@
 }
 
 h4{
-    align-item: center;
+    text-align: center;
     color: black;
-    font-width: bold;
+    margin: auto;
+    padding: auto;
 }
